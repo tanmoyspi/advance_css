@@ -1,5 +1,29 @@
+.he_heading{
+    
+}
 
+.he_heading h1{
+    border: 1px solid green;
+    width: 200px;
+    height: 105px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+.blog{
+    border: 2px solid skyblue;
+    height:500px;
+    width: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
 
+.blogelement{
+    border: 2px solid yellow;
+    height: 300px;
+    width: 200px;
+    overflow-x:scroll;
+    overflow-y:hidden;
+}
 
 .box{
     border: 1px solid rgba(9, 240, 101, 0.605);
